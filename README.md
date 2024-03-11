@@ -1,0 +1,1 @@
+This repo contains the logs of the archived private Nixpkgs Architecture Team Matrix room that was intended mainly for reviewing member applications. It is described in the [joining procedure](https://github.com/nixpkgs-architecture#joining-the-team).
